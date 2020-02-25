@@ -1,6 +1,6 @@
 ## 欢迎
 
-我是陈伟雄，一名产品经理。这是我分享个人作品和工作心得的个人网站，
+我是陈伟雄，一名产品经理。这是我分享个人作品和工作心得的个人网站。
 
 ### 工作经验
 
@@ -9,11 +9,14 @@
 IoT产品经理
 
 ### 项目
-- 儿童编程机器人社区，为全球儿童青少年所打造的DIY机器人社区
+- 儿童编程机器人社区
+    为全球儿童青少年所打造的DIY机器人社区
 - 机器人动作编程工具
 - 机器人程序编程工具 
-- 视频编辑工具，编排机器人的动作并在动作剧场里编辑视频
-- Swift编程课程，在Apple Store的Today at Apple授课的编程课程，曾登上2017年WWDC开发者大会
+- 视频编辑工具
+    编排机器人的动作并在动作剧场里编辑视频
+- Swift编程课程
+    在Apple Store的Today at Apple授课的编程课程，曾登上2017年WWDC开发者大会
 ![MeeBot Learn to Dance at Today at Apple of Apple Store](/image/playground/MeeBotLearnToDanceBanner.jpg)
 - 电台推荐推荐，为儿童量身定制的音频内容平台
 
