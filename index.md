@@ -9,6 +9,8 @@
 IoT产品经理
 
 ### 项目
+- 机器人VUI设计
+
 - 儿童编程机器人社区
 
     为全球儿童青少年所打造的DIY机器人社区
@@ -36,23 +38,3 @@ IoT产品经理
 - [《设计心理学》](https://book.douban.com/subject/1288844/)— Donald Norman
 - [《大象：Thinking in UML》](https://book.douban.com/subject/10549583/) - 谭云杰
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenwxiong/chenwxiong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
