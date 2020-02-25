@@ -8,12 +8,26 @@
 社区产品经理
 IoT产品经理
 
-```markdown
-Syntax highlighted code block
+### 项目
+儿童编程机器人社区
+为全球儿童青少年所打造的DIY机器人社区
 
-# Header 1
-## Header 2
-### Header 3
+机器人图形化编程工具
+
+Swift编程课程
+在Apple Store的Today at Apple授课的编程课程
+曾登上2017年WWDC开发者大会
+
+视频编辑工具
+用户编排机器人的动作并在动作剧场里编辑视频
+
+### 我的产品方法论
+对我影响比较大、并且在工作中经常会使用到的产品、设计概念来源：
+《设计心理学》— Don Norman
+概念模型
+预设用途
+
+《大象》 
 
 - Bulleted
 - List
