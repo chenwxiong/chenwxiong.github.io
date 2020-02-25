@@ -10,15 +10,24 @@ IoT产品经理
 
 ### 项目
 - 儿童编程机器人社区
+
     为全球儿童青少年所打造的DIY机器人社区
+
 - 机器人动作编程工具
+
 - 机器人程序编程工具 
+
 - 视频编辑工具
+
     编排机器人的动作并在动作剧场里编辑视频
-- Swift编程课程
+
+- [Swift编程课程](chenwxiong.github.io/playground.md)
+
     在Apple Store的Today at Apple授课的编程课程，曾登上2017年WWDC开发者大会
 ![MeeBot Learn to Dance at Today at Apple of Apple Store](/image/playground/MeeBotLearnToDanceBanner.jpg)
-- 电台推荐推荐，为儿童量身定制的音频内容平台
+- 电台推荐推荐
+    
+    为儿童量身定制的音频内容平台
 
 ### 我的产品方法论
 对我影响比较大并且在工作中经常会使用到的产品或设计概念来源
