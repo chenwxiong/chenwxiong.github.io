@@ -22,12 +22,9 @@ Swift编程课程
 用户编排机器人的动作并在动作剧场里编辑视频
 
 ### 我的产品方法论
-对我影响比较大、并且在工作中经常会使用到的产品、设计概念来源：
-《设计心理学》— Don Norman
-概念模型
-预设用途
-
-《大象》 
+对我影响比较大、并且在工作中经常会使用到的产品、设计概念来源
+- [《设计心理学》](https://book.douban.com/subject/1288844/)— Donald Norman
+- [《大象：Thinking in UML》](https://book.douban.com/subject/10549583/) - 谭云杰
 
 - Bulleted
 - List
