@@ -14,6 +14,7 @@ IoT产品经理
     为全球儿童青少年所打造的DIY机器人社区
 
 - 机器人动作编程工具
+![JimuRobot Motion Editor](/image/motionEditor.png)
 
 - 机器人程序编程工具 
 
