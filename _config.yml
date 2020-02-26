@@ -21,7 +21,7 @@
 title: Full Stack Product Manager
 email: chenwxiong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-A product manager in China, who is contribute himself as a ful stack product manager.
+  a product manager in China.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chenwxiong
