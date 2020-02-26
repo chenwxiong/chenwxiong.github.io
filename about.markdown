@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+有多年交互设计经验的产品经理。
+做过门户网站、视频监控、视频会议、移动医疗、机器人、社区、商城等产品。
+涉及Web前端、后台、App、VUI、AI、内容等多种产品形式。
+主导过一款百万级别的面向全球青少年用户的智能硬件产品的软件部分。
+现在深圳一家IoT公司担任产品经理。
