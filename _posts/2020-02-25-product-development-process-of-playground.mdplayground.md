@@ -5,7 +5,7 @@ title: Product Development Process of Playground
 ---
 
 ### 项目介绍
-[Swift Playground](https://www.apple.com.cn/swift/playgrounds/)是Apple推出的一个运行在iPad及Mac上的互动编程课程平台。[MeeBot Learn to Dance](https://www.apple.com.cn/today/event/coding-skills-robots-swift-playground/)是结合我们在Apple store销售的硬件产品[MeeBot]()机器人推出的一个结合可编程机器人的编程课程。 
+[Swift Playground](https://www.apple.com.cn/swift/playgrounds/)是Apple推出的一个运行在iPad及Mac上的互动编程课程平台。[MeeBot Learn to Dance](https://www.apple.com.cn/today/event/coding-skills-robots-swift-playground/)（以下简称MLTD）是结合我们在Apple store销售的硬件产品[MeeBot]()机器人推出的一个结合可编程机器人的编程课程。 
 
 ### 项目成果
 - 该项目成功地在多家竞品竞争的情况下，成为第一批登陆Swift Playground的第三方课程之一(全球共5家）。
@@ -26,9 +26,21 @@ title: Product Development Process of Playground
 ### 流程
 1. 产品分析：提取产品特点、查找课程切入点
 ![MeeBot课程概念](/assets/playground/Concept.jpeg)
+
+    在接手这个紧急任务后，我首先了解了Swift Playground这个课程平台以及现有的第一方课程的现状，梳理出平台的框架并定义出在这个框架下我们的工作范围。
+    
+    从界面上看，课程界面由“Navigation”、“Prose”、“Code”、“Live Vie区”四个区域构成。
+    
+    “Prose”是课程内容显示的区域，我们需要定义我们的课程内容、知识点、任务等。
+    
+    “Code”用于让学生输入代码，查看输入的代码及代码运行情况，我们需要定义与当前课程任务有关的、可用的代码、函数。
+
+    “Live View”则是与课程内容、代码对应的场景，在这个场景里呈现了课程的背景，以及代码的运行是如何实现场景里的任务的。我们需要定义与课程内容、任务、代码配套的可交互场景。
+
 MeeBot具有6个舵机，可以做出多个灵活的动作，就像一个舞蹈家一样。围绕动作的设计、组合可以为MeeBot设计“舞蹈”课程，并将编程与舞蹈的知识结合起来。同时舞台的灯光、音乐，现场的观众都可以营造一个具有趣味性的场景。
 
 2. 课程大纲：整理、组织知识点
+按照知识点分类，MLTD包含了
 知识点分类：硬件知识、舞蹈知识、编程知识
 硬件知识：如何连接MeeBot、什么是舵机？、MeeBot的舵机角度限制、如何控制舵机？
 舞蹈知识：基础舞步、舞步组合、节拍、节奏、速度
