@@ -4,9 +4,30 @@ date:   2020-02-26 12:48:01 +0800
 title: Product Development Process of Playground
 ---
 
-### 流程：
+### 项目介绍
+[Swift Playground](https://www.apple.com.cn/swift/playgrounds/)是Apple推出的一个运行在iPad及Mac上的互动编程课程平台。[MeeBot Learn to Dance](https://www.apple.com.cn/today/event/coding-skills-robots-swift-playground/)是结合我们在Apple store销售的硬件产品[MeeBot]()机器人推出的一个结合可编程机器人的编程课程。 
+
+### 项目成果
+- 该项目成功地在多家竞品竞争的情况下，成为第一批登陆Swift Playground的第三方课程之一(全球共5家）。
+-  在WWDC 2017的"Platform State of Union"中得到曝光，同时Ubtech被宣布为Apple在教育领域的合作伙伴。
+- 2017年在全球19个国家、478家AppleStore的‘Today at Apple’作为课程面向消费者授课，全年有超过24000次授课（每次授课8人），覆盖超过20万终端用户。
+- 2018年从支持5国语言增加至12国语言，项目拓展到其他区域和国家。2019年、2020年将继续展开全球推广。
+- Apple表示其为使用数据表现最好的配件合作商之一。
+
+### 项目角色
+
+● 在签署NDA的5人团队中作为产品负责人，主导课程内容设计，创造性地将编程、音乐和舞蹈的知识点结合起来，编写了11个编程课程。
+● 根据教学需要，设计界面交互框架，并带领交互设计师和UI设计师完成设计方案。
+● 使用Markup协助完成部分文案方面的开发工作，并跟进开发实现。
+●与Apple的工程师、音乐老师、设计师等跨领域人员组成的团队合作，完善3D设计、课程文案、UI设计等。
+● 此后又为swift playground开发了星际探险AR课程。
+
+
+### 流程
 1. 产品分析：提取产品特点、查找课程切入点
-MeeBot的特点是能灵活做出多种动作，围绕动作的设计、组合可以为MeeBot设计“舞蹈”课程，并将编程与舞蹈的知识结合起来。
+![MeeBot课程概念](/assets/playground/Concept.jpeg)
+MeeBot具有6个舵机，可以做出多个灵活的动作，就像一个舞蹈家一样。围绕动作的设计、组合可以为MeeBot设计“舞蹈”课程，并将编程与舞蹈的知识结合起来。同时舞台的灯光、音乐，现场的观众都可以营造一个具有趣味性的场景。
+
 2. 课程大纲：整理、组织知识点
 知识点分类：硬件知识、舞蹈知识、编程知识
 硬件知识：如何连接MeeBot、什么是舵机？、MeeBot的舵机角度限制、如何控制舵机？
