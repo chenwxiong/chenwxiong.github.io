@@ -28,7 +28,7 @@
 
     编排机器人的动作并在动作剧场里编辑视频
 
-- [Swift编程课程](/_posts/2020-02-25-product-development-process-of-playground.mdplayground.md)
+- [Swift编程课程](/_posts/2020-02-25-Apple Swift Playground课程开发流程.md)
 
     在Apple Store的Today at Apple授课的编程课程，曾登上2017年WWDC开发者大会
 ![MeeBot Learn to Dance at Today at Apple of Apple Store](/assets/playground/MeeBotLearnToDanceBanner.jpg)
