@@ -1,3 +1,11 @@
+一份好的产品规划，它必须：
+1. 解决过去产品出现的问题
+2. 突出当下产品已证明的价值
+3. 指引未来产品前进的方向
+从执行上来说，一般遵循：
+1. 点线面功能串联
+2. 自下而上的价值提升
+3. 由内而外的价值传播
 ![规划](/assets/JimuIPidea/Jimu Inc 2018中文.005.jpeg)
 ![规划](/assets/JimuIPidea/Jimu Inc 2018中文.006.jpeg)
 ![规划](/assets/JimuIPidea/Jimu Inc 2018中文.007.jpeg)
