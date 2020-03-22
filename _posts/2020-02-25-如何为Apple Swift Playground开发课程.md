@@ -1,6 +1,5 @@
 ---
 layout: post
-date:   2020-02-26 12:48:01 +0800
 title: 如何为Apple Swift Playground开发课程?
 ---
 
